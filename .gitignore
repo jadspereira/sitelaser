@@ -47,3 +47,7 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# QA/research screenshots and notes (kept locally, not pushed)
+docs/design-references/clinica-alva/
+docs/research/
